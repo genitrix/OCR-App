@@ -1,0 +1,6 @@
+[submodule "api/chineseocr_lite"]
+	path = api/chineseocr_lite
+	url = https://github.com/DayBreak-u/chineseocr_lite.git
+[submodule "api/PaddleOCR"]
+	path = api/PaddleOCR
+	url = https://github.com/PaddlePaddle/PaddleOCR.git
